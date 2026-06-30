@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0073/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 撰
+  hash: sha256:6c5ae9564292c109a98624cf08856367b16e5d2522cee022cc1426a225739c9a
+metadata:
+  title: 姚少監詩集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 08:37:00.060054'
+  source:
+    repository: kanripo
+    path: KR4c0073/KR4c0073_000.txt
+hash: sha256:bd46b7e7a16796fe343f2619d4453bb89187de5284251eddd0c2770a41c0e237
