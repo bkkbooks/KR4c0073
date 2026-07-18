@@ -30,18 +30,18 @@ assets:
   - {seq: 10, filename: KR4c0073_010-SBCK.yaml, hash: 'sha256:20a4b9e8e353a9ca622dd75d5e43845814d9ec21f1a549d407dc15d3f9e0a54e'}
   - {seq: 11, filename: KR4c0073_011-SBCK.yaml, hash: 'sha256:1c23ab5d6ec8c1a3451454c463746592af77219dab26a3b0d964945c5a3f2763'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4c0073_000-SBCK.markers.yaml, hash: 'sha256:42a69328ef6455c499b7b3fe0705c2670d58a8b0d92fe2a9caf69e1ae576b757'}
-  - {seq: 1, role: markers, filename: assets/KR4c0073_001-SBCK.markers.yaml, hash: 'sha256:5dc330a96133cfeb38cf65c5244db3797a2103448c1f5cfed24c4f131edd7731'}
-  - {seq: 2, role: markers, filename: assets/KR4c0073_002-SBCK.markers.yaml, hash: 'sha256:b3db691c3afc4dd52159bc6754ad42772acc221d5925a696e365d3d94599fa56'}
-  - {seq: 3, role: markers, filename: assets/KR4c0073_003-SBCK.markers.yaml, hash: 'sha256:591d4d40884b11cc78cadaa14933f23d3d03068a0f9ef90bdff38054ec50fd2e'}
-  - {seq: 4, role: markers, filename: assets/KR4c0073_004-SBCK.markers.yaml, hash: 'sha256:b5337259bdec22d1fe2e2a99211181f3d2e773e898ec9c1ea6e4109a9030c7f6'}
-  - {seq: 5, role: markers, filename: assets/KR4c0073_005-SBCK.markers.yaml, hash: 'sha256:d7766c26265e6ec300f6ece6af73d8264139353813aeec36a2de155df0d160e0'}
-  - {seq: 6, role: markers, filename: assets/KR4c0073_006-SBCK.markers.yaml, hash: 'sha256:9bf091d84b61de4119c9d41ae0925bd58a469c9fbe11f1d2a38866f60c9d6af1'}
-  - {seq: 7, role: markers, filename: assets/KR4c0073_007-SBCK.markers.yaml, hash: 'sha256:f626c4618445032a8efd6cce79b8c45c4e0b0082ce82bffb8f96234768004081'}
-  - {seq: 8, role: markers, filename: assets/KR4c0073_008-SBCK.markers.yaml, hash: 'sha256:f85b6f41f1495cf4b59ee27725869759262905af8a43a2af20ac1de21c5e7dea'}
-  - {seq: 9, role: markers, filename: assets/KR4c0073_009-SBCK.markers.yaml, hash: 'sha256:fdbd4a75c3db596825f25227cb275ad78f189e13278266c44abdc21f4d8a1c9d'}
-  - {seq: 10, role: markers, filename: assets/KR4c0073_010-SBCK.markers.yaml, hash: 'sha256:af643c30363b366109f33f19f254fa9684e3057f1cb4c310b460fa3e0c0c0053'}
-  - {seq: 11, role: markers, filename: assets/KR4c0073_011-SBCK.markers.yaml, hash: 'sha256:676048718307520b89b62449adf80fff93e1e44624deac2dc345288288d0056c'}
+  - {seq: 0, role: markers, filename: assets/KR4c0073_000-SBCK.markers.yaml, hash: 'sha256:607e7ff5aacd0f95b135479731f006a8dd94d60ac3df7936181c25b0ce8b61b3'}
+  - {seq: 1, role: markers, filename: assets/KR4c0073_001-SBCK.markers.yaml, hash: 'sha256:76ef57208c50e7fea770cba59d638972f7c9c759b82b95d658ef5c33b22fa5a9'}
+  - {seq: 2, role: markers, filename: assets/KR4c0073_002-SBCK.markers.yaml, hash: 'sha256:c65b8364597a3f17048c8b0aa94d0be25d8634c7a16da0e6c3964c96959c0184'}
+  - {seq: 3, role: markers, filename: assets/KR4c0073_003-SBCK.markers.yaml, hash: 'sha256:ce87c9b79cf2b40e44486b3b25b1efa3d7366861682342402e099b979880404c'}
+  - {seq: 4, role: markers, filename: assets/KR4c0073_004-SBCK.markers.yaml, hash: 'sha256:796d6f30b26c6b9032c5420d904a2d3fb412869001d40666cd5a2c6384bf9dd2'}
+  - {seq: 5, role: markers, filename: assets/KR4c0073_005-SBCK.markers.yaml, hash: 'sha256:0fd30d4e86c213cbb5388bc48cfc96b398fb9a07953e3487cdadd6b45c83dcee'}
+  - {seq: 6, role: markers, filename: assets/KR4c0073_006-SBCK.markers.yaml, hash: 'sha256:292689d40d5585d7a1e0c0e114aa3658dbf297460d5e7b3adcdd693c04003207'}
+  - {seq: 7, role: markers, filename: assets/KR4c0073_007-SBCK.markers.yaml, hash: 'sha256:928996efb05d739824f568fa505c84d330fdc685b8ca19eb49aa48046d87912d'}
+  - {seq: 8, role: markers, filename: assets/KR4c0073_008-SBCK.markers.yaml, hash: 'sha256:f0090295cc52178ef06c46b7fe05f7d97fb875cac65f4bfbb2504a764b83e124'}
+  - {seq: 9, role: markers, filename: assets/KR4c0073_009-SBCK.markers.yaml, hash: 'sha256:e209b34c5f0b9122e8b3bb4c51acb33b590dfbc81abeb4081ab5774ddfd0e628'}
+  - {seq: 10, role: markers, filename: assets/KR4c0073_010-SBCK.markers.yaml, hash: 'sha256:705961f5b5d8dc3db3f1fa121c0111058befcdd978d87ed3e959f172f3874471'}
+  - {seq: 11, role: markers, filename: assets/KR4c0073_011-SBCK.markers.yaml, hash: 'sha256:08cf09ef16b207b8008ad2eaac696aaf9c5f3fc5736f557204e69d87572f2034'}
 table_of_contents:
 - ref:
     seq: 0
@@ -163,4 +163,4 @@ table_of_contents:
   label: juan 011
   type: section
   level: 1
-hash: sha256:013800d5804e7b754f7e16d573c4785d3d727dfa41b40e50ca976db68a62caff
+hash: sha256:e55bda0b65f37707a4585f8c992fbf633b42f7cbae3b5e91e63f71ca8f390038
